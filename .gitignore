@@ -32,3 +32,6 @@ swanlog/
 .env
 *.key
 *.pem
+
+# Claude Code 本地配置(个人权限白名单等,不入库)
+.claude/settings.local.json

@@ -1,3 +1,9 @@
+> **Fork Notice**
+>
+> This repository is forked from [jingyaogong/minimind](https://github.com/jingyaogong/minimind) and is maintained solely for **personal learning and research**. All upstream copyright and ongoing development belong to the original author; please refer to the upstream repository for the latest version. No service or warranty of any kind is provided here.
+
+---
+
 <div align="center">
 
 ![logo](./images/logo.png)

@@ -1,3 +1,9 @@
+> **Fork 说明**
+>
+> 本仓库 fork 自 [jingyaogong/minimind](https://github.com/jingyaogong/minimind),仅作**个人学习与研究**用途。原始项目的全部版权及后续更新归原作者所有,本仓库不对外提供任何形式的服务或保证;如需获取上游最新版本,请前往原项目。
+
+---
+
 <div align="center">
 
 ![logo](./images/logo.png)

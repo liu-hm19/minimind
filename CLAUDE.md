@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Repository Status
+
+This repository is a personal fork of [jingyaogong/minimind](https://github.com/jingyaogong/minimind), maintained solely for **learning and research**. The upstream project is the source of truth for ongoing development; modifications here may diverge from upstream and are not intended for external use.
+
 ## Project Overview
 
 MiniMind is a minimal LLM implementation from scratch in native PyTorch (~64M parameters, Dense and MoE variants). It provides the full training pipeline from pretraining to RLHF/RLAIF, with architecture aligned to the Qwen3/Qwen3-MoE ecosystem. Core algorithms are implemented natively without relying on high-level abstractions from `trl`/`peft`.
